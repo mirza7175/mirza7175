@@ -1,4 +1,4 @@
-
+# About Me
 ---
 - 👋 Hi, I’m Mirza Rafiq Ahmed (**@mirza7175**)
 - 👀 I’m interested in software development, web development, AI, and building innovative tech solutions.  
